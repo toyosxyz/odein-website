@@ -13,7 +13,7 @@ export const AboutGrid = ()=>{
         },
         {
             "linkedin": "https://www.linkedin.com/in/guillem-hernandez-elevadesk/",
-            "name": "Guillem Hernandez",
+            "name": "Guillem Hernández",
             "image": "/team/GH.jpeg"
         },
         {
