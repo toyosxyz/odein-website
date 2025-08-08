@@ -1,0 +1,48 @@
+{
+    "en": {
+        "name": "Colapse",
+        "services": [
+            "Theme Design",
+            "Theme Development"
+        ],
+        "challenge_image": "../jobs/colapse/Home1.jpg",
+        "backup_challenge_image": "../jobs/colapse/Home1.jpg",
+        "challenge_paragraph": "<p>Shopify has a series of themes both free and paid that make it very easy to start selling in your online store with a professional and attractive store. However, not all of that themes have enough functionalities to satisfy the daily needs of the most demanding e-commerce brands. <br></br>From this need arises Colapse Theme - a theme full of functionalities that will boost your e-commerce to the next level.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/colapse/Home2.webm",
+        "backup_solution_image": "../jobs/colapse/Home2.jpg",
+        "solution_type": "video",
+        "solution_paragraph": "<p>Colapse Theme is our most recent creation. A Shopify theme specially designed for luxurious while minimalist e-commerce brands. A theme that makes the product stand out and shine by itself - a more than important feature in current's e-commerce situation. <br></br>Our theme will be exclusively launched for Odein Studio clients and will be released to the general public later on.</p>",
+        "images": [
+            "../jobs/colapse/1.jpg",
+            "../jobs/colapse/2.jpg",
+            "../jobs/colapse/3.jpg",
+            "../jobs/colapse/4.jpg",
+            "../jobs/colapse/5.jpg",
+            "../jobs/colapse/6.jpg"
+        ]
+    },
+    "es": {
+        "name": "Colapse",
+        "services": [
+            "Diseño de Tema",
+            "Desarrollo de Tema"
+        ],
+        "challenge_image": "../jobs/colapse/Home1.jpg",
+        "backup_challenge_image": "../jobs/colapse/Home1.jpg",
+        "challenge_paragraph": "<p>Shopify cuenta con una serie de temas tanto gratuitos como de pago que hacen muy sencillo el comenzar a vender en tu tienda online con una tienda profesional y atractiva. Sin embargo, no todos esos temas cuentan con las suficientes funcionalidades para satisfacer las neceistades diarias de las marcas de e-commerce más exigentes. <br></br>De esta necesidad surge Colapse Theme, un tema plagado de funcionalidades que impulsarán tu e-commerce al siguiente nivel.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/colapse/Home2.jpg",
+        "solution_type": "video",
+        "backup_solution_image": "../jobs/colapse/Home2.jpg",
+        "solution_paragraph": "<p>Colapse Theme es nuestra creación más reciente. Un tema de Shopify diseñado especialmente para marcas de e-commerce orientadas hacia el lujo y el minimalismo. Un tema que hace brillar las imágenes y videos de los propios productos, algo más que importante en el momento en el que se encuentra el sector del comercio electrónico en la actualidad. <br></br>Nuestro tema saldrá a la venta de forma preferente para clientes de Odein y posteriormente para el público general.</p>",
+        "images": [
+            "../jobs/colapse/1.jpg",
+            "../jobs/colapse/2.jpg",
+            "../jobs/colapse/3.jpg",
+            "../jobs/colapse/4.jpg",
+            "../jobs/colapse/5.jpg",
+            "../jobs/colapse/6.jpg"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "hero": {
+        "title": "SHOPIFY & SHOPIFY PLUS EXPERTS",
+        "subtitle": "Unlocking the power of brands through Shopify. Transform the feel and look of your store with the most trusted e-commerce platform.",
+        "btn": "start project"
+    },
+    "header": {},
+    "footer": {},
+    "location": {
+        "title": "Cambiar idioma",
+        "text": "Queremos ofrecerte la mejor experiencia en nuestra web. ¿Quieres cambiar de idioma?",
+        "btn_one": "Español",
+        "btn_two": "Inglés"
+    },
+    "process": {
+        "back_text": "our process"
+    },
+    "services": {
+        "title": "What we can<br>do for you",
+        "description": "We don’t build marketing plans nor we execute ads and we definitely ain’t business development experts. In Odein we focus on a small range of services that we execute at the best level possible. We are for sure the best alternative for any web development project that can make your processes faster or your work easier. There’s no one better that us on that (or at least is what our clients say)."
+    },
+    "work": {
+        "title": "We create modern<br>stores for modern brands",
+        "first_text": "We deliver Shopify e-commerce solutions that match the needs of modern brands. Helping e-commerce brands optimize their online experience through the powerful Shopify platform.",
+        "second_text": "Supporting brands across many sectors and industries to strategically launch Shopify and Shopify Plus custom stores with a customer-centric approach that focuses on brand and conversion optimization."
+    },
+    "SEO": {
+        "title": "Odein - Shopify & Shopify Plus Experts",
+        "description": "Unlocking the power of brands through Shopify. At Odein we transform the feel and look of your store with the most trusted e-commerce platform. We are the Shopify Experts you've been searching for."
+    },
+    "projects": {
+        "challenge": "The challenge",
+        "solution": "The solution"
+    },
+    "contact-form":{
+        "title": "Let's talk!",
+        "name": "Name*",
+        "name_placeholder": "Full name",
+        "email": "Email*",
+        "email_placeholder": "Contact email",
+        "website": "Website",
+        "website_placeholder": "Current website (if any)",
+        "budget": "Project budget",
+        "message": "Message*",
+        "message_placeholder": "Explain us the project needs...",
+        "confirmation_message": "Thanks for submiting your message! We'll answer you as soon as possible",
+        "send_button": "Send message"
+    }
+}

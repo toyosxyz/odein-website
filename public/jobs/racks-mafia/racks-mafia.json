@@ -1,0 +1,50 @@
+{
+    "en": {
+        "name": "Racks Mafia",
+        "services": [
+            "INTEGRATIONS",
+            "CONSTANT SUPPORT",
+            "DEVELOPMENT"
+        ],
+        "challenge_image": "../jobs/racks-mafia/Home.webm",
+        "backup_challenge_image": "../jobs/racks-mafia/Home.jpg",
+        "challenge_paragraph": "<p>Racks Mafia is a disruptive clothing Brand seaking for a spot in the streetwear world, using rebellious messages that capture the attention of one of the most loyal communities in the sector.<br></br>The old Racks website was too plain and lacked personality. Using one of the default Shopify themes might be a fast and easy solution for some brands, but that wasn’t Racks case. That regular looking website prevented the brand to diferenciate from the competence on it’s online presence.</p>",
+        "challenge_type": "video",
+        "solution_image": "../jobs/racks-mafia/Home.jpg",
+        "backup_solution_image": "../jobs/racks-mafia/Home.jpg",
+        "solution_type": "image",
+        "solution_paragraph": "<p>Racks website needed an urgent style and functional change. Their online presence wasn’t matching the Brand values making customer transition from their social platforms to be hard resulting in decreasing the conversion rate.<br></br>To solve this we started modifing the original website giving it a more premium and modern look from what it had before. In the meantime we started working on a brand new theme involving desing and development phases that will perfectly match the brand. Racks was changing the brand direction when we started working together making it the perfect momento to start working with us.</p>",
+        "images": [
+            "../jobs/racks-mafia/1.png",
+            "../jobs/racks-mafia/2.png",
+            "../jobs/racks-mafia/3.png",
+            "../jobs/racks-mafia/4.png",
+            "../jobs/racks-mafia/5.png",
+            "../jobs/racks-mafia/6.png"
+        ]
+    },
+    "es": {
+        "name": "Racks Mafia",
+        "services": [
+            "Integraciones",
+            "soporte constante",
+            "desarrollo"
+        ],
+        "challenge_image": "../jobs/racks-mafia/Home.webm",
+        "challenge_type": "video",
+        "backup_challenge_image": "../jobs/racks-mafia/Home.jpg",
+        "challenge_paragraph": "<p>Racks Mafia es una marca de ropa disruptiva que busca hacerse un hueco en el mundo del streetwear, utilizando mensajes rebeldes que captan la atención de una de las comunidades más fieles del sector.<br></br>Su antigua tienda online era demasiado simple y carecía de personalidad. Usar uno de los temas predeterminados de Shopify puede ser una solución rápida y fácil para algunas marcas, pero ese no era el caso de Racks. Su e-commerce impedía que la marca se diferenciara de la competencia y mantuviese su esencia durante el flujo de compra del usuario.</p>",
+        "solution_image": "../jobs/racks-mafia/Home.jpg",
+        "backup_solution_image": "../jobs/racks-mafia/Home.jpg",
+        "solution_type": "image",
+        "solution_paragraph": "<p>La web de Racks necesitaba un cambio y lo necesitaba urgentemente. Su presencia online no representaba la imagen y esencia de la marca, por lo que la transición para los potenciales clientes entre sus redes sociales y su página web añadía bastante fricción y resultaba en pérdidas de conversiones.<br></br>Para arreglar este problema, le dimos un lavado de cara a la antigua web de Racks mientras trabajamos codo con codo en una nueva web desde cero que represente a la perfección la esencia de la marca, así como sus valores y objetivos. La aparición de Odein cuadró a la perfección con el cambio de rumbo en la identidad de marca de Racks, orientándose más hacia una marca de ropa premium. </p>",
+        "images": [
+            "../jobs/racks-mafia/1.png",
+            "../jobs/racks-mafia/2.png",
+            "../jobs/racks-mafia/3.png",
+            "../jobs/racks-mafia/4.png",
+            "../jobs/racks-mafia/5.png",
+            "../jobs/racks-mafia/6.png"
+        ]
+    }
+}

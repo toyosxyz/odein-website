@@ -1,0 +1,50 @@
+{
+    "en": {
+        "name": "MrCrypto",
+        "services": [
+            "UX/UI Design",
+            "Development",
+            "Store Setup"
+        ],
+        "challenge_image": "../jobs/mrcrypto/Home2.jpg",
+        "backup_challenge_image": "../jobs/mrcrypto/Home2.jpg",
+        "challenge_paragraph": "<p>MrCrypto is one of the most important spanish speaking NFT collection in current market. One of the utilities that they wanted to give to their holders was the possibility to have an exclusive store to purchase all the merch related to the collection.</p><br><br><p>That store needed to use Shopify to manage all the products and orders as well as the Web3 advantages to create a fully exclusive store for the NFT holders.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/mrcrypto/Hero.webm",
+        "backup_solution_image": "../jobs/mrcrypto/Home.png",
+        "solution_type": "video",
+        "solution_paragraph": "<p>With the help from <a target='_blank' href='https://rackslabs.com'>Racks Labs</a> team we were able to build a completely different store from what the public is used to see. With Web3 technology we managed to create a store that let’s you sync your wallet and let you access depending on wether you are holder of the collection or not.<br></br>Once the  user is already inside of the store they will see 3D models representing all the products and giving a premium feel to the website asthetics. They will also be able to customize the products with their own NFTs. There are also some functionalities in the background that check for the autenticity of the transactions that guarantee the autenticity of the orders.</p>",
+        "images": [
+            "../jobs/mrcrypto/Main1.png",
+            "../jobs/mrcrypto/Main2.png",
+            "../jobs/mrcrypto/Main3.png",
+            "../jobs/mrcrypto/Main4.png",
+            "../jobs/mrcrypto/Main5.png",
+            "../jobs/mrcrypto/Main6.png"
+        ]
+    },
+    "es": {
+        "name": "MrCrypto",
+        "services": [
+            "UX/UI Design",
+            "Development",
+            "Store Setup"
+        ],
+        "challenge_image": "../jobs/mrcrypto/Home2.jpg",
+        "backup_challenge_image": "../jobs/mrcrypto/Home2.jpg",
+        "challenge_paragraph": "<p>MrCrypto es una de las colecciones NFT de habla hispana más importantes del mercado actual. Una de las utilidades que querían darle a sus holders era la posibilidad de tener una tienda exclusiva para adquirir todo el merchandising relacionado con la colección.</p><br><br><p>Esa tienda necesitaba usar Shopify para administrar todos los productos y pedidos mientras se nutría de las ventajas de Web3 para crear una tienda totalmente exclusiva.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/mrcrypto/Hero.webm",
+        "solution_type": "video",
+        "backup_solution_image": "../jobs/mrcrypto/Home.png",
+        "solution_paragraph": "<p>Junto con la ayuda del equipo de <a target='_blank' href='https://rackslabs.com'>Racks Labs</a>, creamos una tienda totalmente distinta a las que el público está acostumbrado a ver que aprovechaba las ventajas de la Web3 para sincronizar tu cartera y permitirte el acceso en función de si eras o no holder de MRC.<br></br>Una vez el usuario ya ha ingresado a la web, el flujo de compra es muy similar, destacando el uso de modelos 3D para los productos y la posibilidad de personalizarlos con uno de tus NFTs. Durante la compra y una vez se ha finalizado se realizan una serie de comprobaciones extra para garantizar la autenticidad de las compras.</p>",
+        "images": [
+            "../jobs/mrcrypto/Main1.png",
+            "../jobs/mrcrypto/Main2.png",
+            "../jobs/mrcrypto/Main3.png",
+            "../jobs/mrcrypto/Main4.png",
+            "../jobs/mrcrypto/Main5.png",
+            "../jobs/mrcrypto/Main6.png"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "SEO": {
+        "title": {
+            "en": "Odein - Shopify & Shopify Plus Experts",
+            "es": "Odein - Expertos en Shopify y Shopify Plus"
+        },
+        "description": {
+            "en": "Unlocking the power of brands through Shopify. At Odein we transform the feel and look of your store with the most trusted e-commerce platform. We are the Shopify Experts you've been searching for.",
+            "es": "Desata el poder de tu marca con Shopify. En Odein transformamos tu tienda online de la mano de la más reputada herramienta de e-commerce. Somos los expertos de Shopify que llevas tanto tiempo buscando."
+        }
+    },
+    "blog": {
+        "title": {
+            "en": "News, insights and trends in the Shopify ecosystem.",
+            "es": "Novedades, insights y tendencias en Shopify"
+        }
+    },
+    "about": {
+        "title": {
+            "en": "E-Commerce & Shopify experts working with ambitious brands.",
+            "es": "Somos expertos en E-Commerce, Shopify & Shopify Plus."
+        },
+        "description": {
+            "en": "We've been involved in the e-commerce world for half a decade - both from agency and client sides. Focused on client results and store experience while offering a premium tailor-made support.",
+            "es": "Llevamos involucrados en el mundo del e-commerce por casi media década, tanto del lado de agencia como con nuestras propias tiendas. Nos centramos en conseguir resultados para nuestros clientes, ofreciendo una experiencia premium y cercana."
+        }
+    },
+    "services": {
+        "title": {
+            "en": "Where Shopify excellence meets limitless potential.",
+            "es": "Todo es posible, si estás en Shopify."
+        },
+        "description": {
+            "en": "From stunning design to seamless functionality, we tailor each Shopify store to meet your unique business needs. Experience the difference of a custom-built Shopify store that captivates customers and drives your business forward.",
+            "es": "Desde diseños increibles a integraciones complejas, exprimimos al máximo el potencial de Shopify para cumplir con los requisitos más exigentes. Experimenta la diferencia de una tienda hecha a medida que cautiva a los usuarios e impulsa tu negocio."
+        }
+    },
+    "clients": {
+        "title": {
+            "en": "Working with some of the best brands in Spain and Worldwide",
+            "es": "Trabajamos con algunas de las marcas más potentes de España (y del mundo)"
+        },
+        "description": {
+            "en": "We've been working with some of the best-know brands in Spain, giving them a close premium service while building long-lasting and strong relationships based on trust, goal achievements and constant improvement.",
+            "es": "Trabajamos con marcas muy top dentro del panorama nacional, dándoles un soporte cercano y de calidad. Construimos relaciones sólidas y duraderas, basadas en la confianza, la generación de resultados y la mejora constante."
+        }
+    },
+    "blogSection": {
+        "title": {
+            "en": "Stuff we've learned along the way...",
+            "es": "Lo que hemos aprendido con el tiempo..."
+        }
+    },
+    "aboutPage": {
+        "title1": {
+            "en": "Where Shopify excellence meets limitless potential.",
+            "es": "Combinamos la excelencia con el potencial de Shopify."
+        },
+        "description1": {
+            "en": "We've been involved in the e-commerce world for half a decade - both from agency and client sides. Focused on client results and store experience - when you win, we win.",
+            "es": "Llevamos involucrados en el mundo del e-commerce por casi media década, tanto del lado de agencia como con nuestras propias tiendas. Nos centramos en conseguir resultados para nuestros clientes, ofreciendo una experiencia premium y cercana."
+        },
+        "title2": {
+            "en": "Small Team, Big Impact.",
+            "es": "Pequeño equipo, mayor impacto"
+        },
+        "description2": {
+            "en": "We're an all-founder Shopify development agency rewriting the rules of e-commerce development. No big teams, no hidden costs, none of that big corporate stuff. Our youthful team, backed by over half a decade of deep Shopify experience, is committed to turning e-commerce dreams into thriving realities.",
+            "es": "Somos un equipo de 3 expertos en Shopify dedicado a crear experiencias únicas en el mundo del e-commerce. No tenemos un gran equipo, ni tampoco lo buscamos. Nuestra fortaleza reside en la experiencia acumulada tras media década dentro del ecosistema Shopify, unida a la necesidad de superación y progreso constante."
+        }
+    },
+    "blogCta": {
+        "title": {
+            "en": "Need some help?",
+            "es": "¿Te echamos una mano?"
+        },
+        "description":{
+            "en": "From stunning design to seamless functionality, we tailor each Shopify store to meet your unique business needs. Experience the difference of a custom-built Shopify store that captivates customers and drives your business forward.",
+            "es": "Desde diseños increibles a integraciones complejas, exprimimos al máximo el potencial de Shopify para cumplir con los requisitos más exigentes. Experimenta la diferencia de una tienda hecha a medida que cautiva a los usuarios e impulsa tu negocio."
+        }
+    }
+}

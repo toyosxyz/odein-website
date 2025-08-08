@@ -1,0 +1,44 @@
+{
+    "en": {
+        "name": "Squali Swim",
+        "services": [
+            "STORE SETUP",
+            "DEVELOPMENT"
+        ],
+        "challenge_image": "../jobs/squali/Home2.jpg",
+        "backup_challenge_image": "../jobs/squali/Home2.jpg",
+        "challenge_paragraph": "<p>Squali is a brand of sustainable swimsuits made by and for athletes. After starting their e-commerce journey on the Squarespace platform they realized that they needed more control in terms of products, collections and orders management.<br></br>Apart from that Squali’s website needed an urgent styling fix and some customization oriented to fit e-commerce and their B2B customer needs.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/squali/Home3.jpg",
+        "backup_solution_image": "../jobs/squali/Home3.jpg",
+        "solution_type": "image",
+        "solution_paragraph": "<p>As a starting point we installed a premium Shopify theme oriented towards the sports niche from where we started modifying the code to fit Squali’s team needs. We also implemented functionalities for B2B clients combining tertiary apps with custom development. Some of those functionalities were the B2B customer account creation process or exclusive pages, collections and products for determined clients.<br></br>Apart from all the development process we also migrated all products, collections and customers from their old Squarespace store to the brand new Shopify one.</p>",
+        "images": [
+            "../jobs/squali/1.png",
+            "../jobs/squali/2.png",
+            "../jobs/squali/3.png",
+            "../jobs/squali/4.png"
+        ]
+    },
+    "es": {
+        "name": "Squali Swim",
+        "services": [
+            "Store setup",
+            "desarrollo"
+        ],
+        "challenge_image": "../jobs/squali/Home2.jpg",
+        "backup_challenge_image": "../jobs/squali/Home2.jpg",
+        "challenge_paragraph": "<p>Squali es una marca de bañadores sostenibles hecha por y para deportistas. Tras iniciarse en el mundo del e-commerce haciendo uso de la plataforma Squarespace, surgió la necesidad de mayores funcionalidades y mejor gestión de productos, pedidos y colecciones.<br></br>Así mismo, la web de Squali necesitaba un cambio estético urgente y una clara personalización enfocada al e-commerce y a satisfacer las necesidades de su público B2B.</p>",
+        "challenge_type": "image",
+        "solution_image": "../jobs/squali/Home3.jpg",
+        "backup_solution_image": "../jobs/squali/Home3.jpg",
+        "solution_type": "image",
+        "solution_paragraph": "<p>Como punto de partida instalamos un tema de Shopify orientado al nicho del deporte, sobre el cual hicimos una serie de modificaciones para satisfacer todas las necesidades del equipo de Squali. Así mismo, se implementaron una serie de funcionalidades para clientes B2B combinando aplicaciones de terceros con desarrollos propios. Algunas de estas funcionalidades engloban la creación de cuentas B2B, páginas exclusivas para determinados clientes o descuentos exclusivos.<br></br>Además del desarrollo del tema, se migraron todos los clientes, productos y colecciones desde la anterior web en Squarespace hacia Shopify. </p>",
+        "images": [
+            "../jobs/squali/1.png",
+            "../jobs/squali/2.png",
+            "../jobs/squali/3.png",
+            "../jobs/squali/4.png"
+        ]
+    }
+}
