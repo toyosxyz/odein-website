@@ -87,7 +87,7 @@ export const Header: FC = () => {
           <div className={`site-header__menu-inner`}>
             {
               menuItems.map((item, key) => {
-                return <li key={key} className={item.url.includes("/contact") ? "site-header__menu-item--contact site-header__menu-item" : "site-header__menu-item"}><CustomLink locale={currentLocale} href={item.url}><span>{item.label}</span></CustomLink></li>
+                return <li key={key} className={item.url.includes("/contact") ? "site-header__menu-item--contact site-header__menu-item" : "site-header__menu-item"}><CustomLink href={item.url}><span>{item.label}</span></CustomLink></li>
               })
             }
           </div>

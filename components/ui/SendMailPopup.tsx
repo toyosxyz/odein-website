@@ -13,7 +13,7 @@ export const SendMailPopup = () => {
   const [mailData, setMailData] = useState({ name: '', email: '', website: '', message: '', phone: '' });
   const [isLoading, setIsLoading] = useState(false);
 
-  const handleChange = event => {
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = event.target;
     setMailData({
       ...mailData,
@@ -21,7 +21,7 @@ export const SendMailPopup = () => {
     });
   }
 
-  async function handlePress(event) {
+  async function handlePress(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault()
     setIsLoading(true);
 

@@ -3,7 +3,6 @@
 import { AppLayout } from '../../components'
 import { AboutGrid } from '../../components/ui/AboutPage/AboutGrid'
 import { AboutHero } from '../../components/ui/AboutPage/AboutHero'
-import { BlogSection } from '../../components/ui/Blog'
 import { Clients } from '../../components/ui/Clients'
 import { Services } from '../../components/ui/Services'
 import { TextWithBtn } from '../../components/ui/TextWithBtnNew'
