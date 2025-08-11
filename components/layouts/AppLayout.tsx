@@ -42,8 +42,8 @@ export const AppLayout: FC<Props> = ({ children, title, description = "", classN
       <main id="root" className={"no-scroll data-scroll-container "+className} data-scroll-container>
         {children}
         <Footer />
-        <div className="cursor label-style"></div>
       </main>
+      <div className="cursor label-style"></div>
     </>
   )
 }

@@ -7,7 +7,7 @@ export const scrollingAnimations = ()=>{
       document.fonts.ready.then(function () {
         setTimeout(()=>{
           document.querySelector('#root').classList.remove('no-scroll')
-        }, 1500)
+        }, 100) // Reduced from 1500ms to 100ms
       })
 
       const cursor = document.querySelector('.cursor');

@@ -28,7 +28,7 @@ export const Work: FC<{ translation: any }> = ({ translation: t }) => {
         if (typeof window !== 'undefined' && loadedProjects) {
             setTimeout(()=>{
                 scrollTriggerAnimations()
-            }, 500)
+            }, 100) // Reduced from 500ms to 100ms
         }
     }, [loadedProjects])
 

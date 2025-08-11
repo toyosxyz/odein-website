@@ -40,7 +40,7 @@ export const WorkProjects = ()=>{
                         }, 300)
                     })
                 }
-            }, 1000)
+            }, 100) // Reduced from 1000ms to 100ms
         })
         .catch(console.error)
     }, [])

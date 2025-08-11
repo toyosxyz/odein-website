@@ -35,7 +35,7 @@ export const Header: FC = () => {
 
       setTimeout(()=>{
         menuAnimations(!showLogo)
-      }, 500)
+      }, 100) // Reduced from 500ms to 100ms
     }
   }, [el])
   
