@@ -43,7 +43,7 @@ export const Footer: FC = () => {
                     </div>
                 </div>   
                 <div className="site-footer__logo">
-                    <img loading="lazy" src="../../Logo.svg" alt="Site Logo. Go to home page" />
+                    <img src="/Logo.svg" alt="Site Logo. Go to home page" />
                 </div>    
             </div>
         </footer>
