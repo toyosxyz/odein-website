@@ -24,7 +24,8 @@ export const animatePageIn = ()=>{
         yPercent: 0
     })
     .set([main], {
-        transform: "scale(1.1)"
+        transform: "translateY(10px)",
+        opacity: 0
     })
 
     
@@ -40,8 +41,10 @@ export const animatePageIn = ()=>{
         yPercent: -10
     }, 'start')
     .to([main], {
-        transform: "scale(1)",
-        duration: 1
+        transform: "translateY(0)",
+        opacity: 1,
+        duration: 1,
+        ease: "power2.inOut"
     }, 'start')
 }
 
