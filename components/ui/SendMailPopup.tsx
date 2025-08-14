@@ -70,13 +70,17 @@ export const SendMailPopup = () => {
     }
   }
 
+  const currentMonth = new Date().getMonth()
+  const nextMonth = currentMonth + 1
+  const nextMonthName = new Date(0, nextMonth, 1).toLocaleString('en', { month: 'long' })
+
   return (
     <>
     <div className={"form-popup"}>
       <div className="form-popup__wrapper">
         <div className="form-popup__wrapper__title-wrapper">
           <h3 className="title-medium">Business requests</h3>
-          <div className="availability-label">2 spaces left for 2025</div>
+          <div className="availability-label">Available for {nextMonthName}</div>
         </div>
         <p>If you have a project in mind, don't hesitate to reach out.
         We look forward to working with you! </p>

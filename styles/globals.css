@@ -2217,12 +2217,17 @@ body.form-popup-open::before{
 
 /*==========project-hero=====*/
 .project-hero{
+  width: calc(100vw - 40px);
+  margin: 20px;
+  padding: 0;
+}
+
+.project-hero__inner{
   display: flex;
   justify-content: center;
   align-items: center;
   height: calc(100svh - 40px); /*SVH is the new way of managing 100vh for mobile heights*/
-  width: calc(100vw - 40px);
-  margin: 20px;
+  width: 100%;
   border-radius: var(--border-radius);
   pointer-events: none;
   overflow: hidden;
@@ -2251,17 +2256,24 @@ body.form-popup-open::before{
   font-size: 20px;
 }
 
+.project-hero__label{
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .project-hero__title{
   font-size: 70px;
   font-weight: 200;
   line-height: 1.1;
   margin: 0;
   position: absolute;
-  bottom: 20%;
+  bottom: 15%;
   left: 50%;
   color: var(--light-color);
   text-align: left;
-  width: 50%;
+  width: 40%;
 }
 
 .project-hero__extra-info-wrapper{
@@ -2746,17 +2758,8 @@ body.form-popup-open::before{
     margin: 50px 0;
   }
 
-  .project-image{
-    height: 80vh;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
   .project-image img{
-    height: 100%;
-    width: auto;
+    width: 100%;
   }
 
   .project-hero__extra-info-column p{
@@ -2785,7 +2788,7 @@ body.form-popup-open::before{
   }
 
   .project-image{
-    margin: 50px var(--min-padding);
+    margin: 10px var(--min-padding);
   }
 
   .testimonials-slider__slide{
@@ -3205,6 +3208,42 @@ body.form-popup-open::before{
   height: auto;
 }
 
+.project-hero__content{
+  padding: 100px 20px 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.project-hero__services{
+  max-width: 320px;
+  border-bottom: 1px solid var(--gray-color);
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.project-hero__services-label{
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: var(--dark-gray-color);
+}
+
+.project-hero__services-item{
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-weight: 300;
+}
+
+.project-hero__description p{
+  max-width: 500px;
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
 
 /*=====================MOBILE STYLES======================*/
 @media (max-width: 1000px){
@@ -3643,4 +3682,30 @@ body.form-popup-open::before{
   .work__item__image{
     background-size: cover;
   }
+
+  .project-hero__title{
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .project-hero__content{
+    grid-template-columns: 1fr;
+    padding: 50px 0 10px;
+  }
+
+  .project-hero__description p,
+  .project-hero__services{
+    max-width: 100%;
+  }
+
+  .project-hero__description p,
+  .project-hero__services-item{
+    font-size: 18px;
+  }
+
 }

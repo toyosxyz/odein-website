@@ -25,7 +25,8 @@ interface Project {
   image4: any
   services: [string]
   relatedProjects: []
-  clientLogo: any
+  websiteLink: string
+  heading: string
 }
 
 export default function ProjectPage() {
@@ -49,15 +50,9 @@ export default function ProjectPage() {
     }
   }, [projectData, params.name])
 
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      // scrollTriggerAnimationsWork()
-    }
-  }, [])
-
   return (
     <AppLayout title={`${projectData?.title} Case Study - Odein`} description={projectData?.description}>
-      <ProjectHero clientLogo={projectData?.clientLogo.fields.file.url} image={projectData?.image.fields.file.url} services={projectData?.services || [""]} client={projectData?.title} date={""} description={projectData?.description} title={projectData?.title} />
+      <ProjectHero heading={projectData?.heading} websiteLink={projectData?.websiteLink} image={projectData?.image.fields.file.url} services={projectData?.services || [""]} description={projectData?.description} title={projectData?.title} />
       {
         projectData?.image2.map((image: any, index: any) => (
           <div className="project-image parallax-image" key={index}>
