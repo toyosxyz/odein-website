@@ -776,13 +776,15 @@ body {
   position: relative;
 }
 
-.clients__client-logo img{
+
+.clients__client-logo img,
+.clients__client-logo svg{
   width: 70%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  filter: invert(1);
+
 }
 
 .clients__title-wrapper{
